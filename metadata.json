@@ -1,0 +1,6 @@
+{
+  "name": "RudraX Air Mouse",
+  "description": "Real-time front-camera hand tracking controller and Bluetooth HID Air Mouse for Android TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

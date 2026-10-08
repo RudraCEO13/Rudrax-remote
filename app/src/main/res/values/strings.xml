@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RudraX Air Mouse</string>
+    <string name="header_title">RUDRAX AIR MOUSE</string>
+    <string name="header_subtitle">REAL-TIME TV HAND CONTROLLER · V1.0</string>
+    <string name="connected_tv_header">CONNECTED TV</string>
+    <string name="no_tv_connected">No TV Connected</string>
+    <string name="status_connected">CONNECTED</string>
+    <string name="status_connecting">CONNECTING</string>
+    <string name="status_disconnected">DISCONNECTED</string>
+    <string name="status_reconnecting">RECONNECTING</string>
+    <string name="status_connection_error">CONNECTION ERROR</string>
+    <string name="action_enable_bluetooth">Enable Bluetooth</string>
+    <string name="action_allow_camera">Allow Camera</string>
+    <string name="action_allow_bluetooth">Allow Bluetooth</string>
+    <string name="action_scan_tv">Scan for TVs</string>
+    <string name="action_stop_scan">Stop Scan</string>
+    <string name="action_retry_connection">Retry Connection</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_calibrate">Calibrate</string>
+    <string name="action_recalibrate">Recalibrate</string>
+    <string name="privacy_notice_camera">Local on-device processing only. Camera frames are analyzed in volatile memory and never saved, recorded, or uploaded.</string>
+    <string name="air_mouse_active">AIR MOUSE ● ACTIVE</string>
+    <string name="air_mouse_standby">AIR MOUSE ○ STANDBY (CONNECT TV TO TRANSMIT HID)</string>
+    <string name="gesture_pointer">Pointer</string>
+    <string name="gesture_click">Click</string>
+    <string name="gesture_scroll">Scroll</string>
+    <string name="gesture_navigation">Navigation</string>
+</resources>
